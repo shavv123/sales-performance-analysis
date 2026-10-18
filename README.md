@@ -21,7 +21,7 @@ This project analyzes fictional sales data using Microsoft Excel to understand r
 - February had the highest monthly revenue.
 
 ## Dashboard
-See `Dashboard_Screenshot.png` for the dashboard preview.
+![Sales Performance Dashboard](Dashboard_Screenshot.png)
 
 ## Dataset
 The dataset contains fictional sales transactions from January to March 2026.
@@ -29,4 +29,6 @@ The dataset contains fictional sales transactions from January to March 2026.
 **Disclaimer:** This is a practice project using fictional data, not actual company sales.
 
 ## Author
-Entry-Level Data Analytics Portfolio Project
+
+Shravan  
+GitHub: [shavv123](https://github.com/shavv123)
